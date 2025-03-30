@@ -4,8 +4,4 @@ function Home() {
   );
 }
 
-function teste() {
-  console.log("indentacao errada");
-}
-
 export default Home;
