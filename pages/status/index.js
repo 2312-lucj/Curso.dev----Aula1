@@ -50,7 +50,6 @@ function DatabaseStatus() {
       </>
     );
   }
-
   return (
     <>
       <h2>Database</h2>
